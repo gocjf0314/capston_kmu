@@ -1,4 +1,4 @@
-# capston-kmu
+# capston_kmu
 KMU Capton Project
 
 Porject Manager/Developer - 정해철
