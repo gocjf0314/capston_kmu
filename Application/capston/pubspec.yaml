@@ -30,6 +30,12 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_localizations:
+    sdk: flutter
+
+  firebase_package:
+    path: ../firebase_package
+
   firebase_core: ^1.4.0
   provider: ^6.0.1
   image_picker: ^0.8.4+13
