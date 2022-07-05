@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996095128260",
+    "project_id": "capston-d05a1",
+    "storage_bucket": "capston-d05a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996095128260:android:c4a33448311632bba44f91",
+        "android_client_info": {
+          "package_name": "com.company.capston_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996095128260-rvr9adpfbk5st93e94lfqoe39tksa720.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.capston_app",
+            "certificate_hash": "7bc77ac36a5e2a8696e3c06ca3f631860b0d7a40"
+          }
+        },
+        {
+          "client_id": "996095128260-tknrc9gkdse46rgqbd409lavjf844l67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkKur-ktx5e06_CIWZDgpZMXsZwArVkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996095128260-tknrc9gkdse46rgqbd409lavjf844l67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
